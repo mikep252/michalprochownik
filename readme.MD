@@ -1,7 +1,7 @@
 Busines requirements
 ---------------
 
--assign limit
+- assign limit
 - block card
 - withdraw
     -can't withdraw when can't afford
